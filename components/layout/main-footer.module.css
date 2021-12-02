@@ -5,13 +5,17 @@
   display: absolute;
   width: 100;
   bottom: 0px;
-  height: 100px;
+  height: 150px;
   margin-top: 50px;
 }
 
 .container {
   width: 80%;
   margin: auto;
-  padding-top: 40px;
+  padding-top: 10px;
   text-align: center;
+}
+
+.container a {
+  color: rgb(213, 254, 255);
 }
